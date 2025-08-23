@@ -1,0 +1,8 @@
+Symptom,Display Name,Trigger Phrases,Assistant Response
+Fever,Fever-related symptoms,"I have a fever, My body is hot, High temperature, Feeling warm and dizzy","You might be experiencing a mild fever. Stay hydrated, rest, and monitor. If it persists over 48 hours, consult a doctor."
+Headache,Headache or head pain,"I have a headache, My head hurts, Pain in head, Pressure in skull, Throbbing headache","Headaches may result from dehydration or stress. Drink water, take rest, avoid screens. If it's intense or persistent, consult a doctor."
+Sore Throat,Sore throat or pain,"My throat hurts, I have a sore throat, Difficulty swallowing, Irritated throat, Hoarseness","Gargle with warm salt water, stay hydrated, and rest your voice. If pain increases or fever appears, consult a doctor."
+Cold,Cold or congestion,"I have a cold, Sneezing, Runny nose, Nasal congestion, I feel sick","Stay warm, drink hot fluids, and use steam inhalation. Rest well and monitor symptoms."
+Stomach Ache,Stomach pain or cramps,"My stomach hurts, Cramps, I feel bloated, I have nausea, Pain in abdomen","Eat light food, avoid spicy meals, and stay hydrated. If pain is severe or recurring, consult a physician."
+Cough,Cough symptoms,"I am coughing, Persistent cough, Dry cough, Wet cough, I can't stop coughing","Drink warm liquids, avoid cold environments, and use cough syrup if needed. If cough lasts more than a week, consult a doctor."
+Nausea,Nausea or vomiting,"I feel like vomiting, Nauseous, I’m dizzy, I feel like throwing up","Rest in a calm space, avoid food for a bit, sip on electrolyte fluids. Persistent vomiting needs medical attention."
