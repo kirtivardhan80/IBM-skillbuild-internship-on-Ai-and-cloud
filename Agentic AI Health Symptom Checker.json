@@ -1,0 +1,13 @@
+{
+	"id": "fb63b588-bb5b-4dca-a10d-dede37b06929",
+	"crn": "crn:v1:bluemix:public:project:us-south:a/0042323816a94f27a5a8733df0c4ed80:fb63b588-bb5b-4dca-a10d-dede37b06929::",
+	"definition": {
+		"name": "Agentic AI Health Symptom Checker",
+		"description": "",
+		"destroy_on_delete": true
+	},
+	"configs": [],
+	"environments": [],
+	"resource_group_id": "decd0c4a237e46ffbefc33ac86801015",
+	"location": "us-south"
+}
